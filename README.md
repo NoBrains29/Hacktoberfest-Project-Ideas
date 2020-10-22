@@ -34,6 +34,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Restaurant (Landing Page)
 * Quiz Game
 * Podcast Website
+*Courses website
 
 ### JavaScript
 
@@ -73,6 +74,7 @@ We'll organise into different streams here. One kind request for motivation: Ple
 * Patatap Game
 * RGB color Guessing Game
 * URL Shortener
+
 
 ### React JS
 
